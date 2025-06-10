@@ -37,7 +37,6 @@ Reading package lists... Done
 Building dependency tree... Done
 Reading state information... Done
 nginx is already the newest version (1.24.0-2ubuntu7.3).
-0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
 Synchronizing state of nginx.service with SysV service script with /usr/lib/systemd/systemd-sysv-install.
 Executing: /usr/lib/systemd/systemd-sysv-install enable nginx
 ● nginx.service - A high performance web server and a reverse proxy server
