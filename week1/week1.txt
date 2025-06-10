@@ -1,0 +1,18 @@
+Web app deployment basics (Week - 1)
+
+sh/bash/python/node scripting todo file io operations
+- Task done as per understanding check file-io.sh
+
+​systemctl basics
+-​ Create new service
+-​ Add service to auto restart
+- Task Done check service-script.sh and install.service
+
+​Task scheduling and queuing
+-​ Crontab basics, crontab expression and scheduling
+- task done check auto-update.sh
+
+​Nginx config
+-​ Exploring Nginx directives and configurations
+-​ Reverse proxy setups for web applications
+-​ Reference: https://mohitkr27.medium.com/nginx-configuration-explained-a96d8482d778

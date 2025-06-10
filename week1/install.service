@@ -1,0 +1,16 @@
+# this is create first service and this service start it and it config file show on "/etc/systemd/system" and it service start with enable also.
+
+
+[Unit] 
+Description=it is demo service to create and restart service nginx
+After=network-up.target
+
+[Service]
+User=dhruv-moradiya
+WorkingDirectory=/home/user/dhruv-moradiya/Devops-intern/devops-intership-week-task/week1
+ExecStart=/home/user/dhruv-moradiya/Devops-intern/devops-intership-week-task/week1/./service-script.sh nginx
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
