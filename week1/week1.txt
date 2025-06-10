@@ -12,7 +12,3 @@ sh/bash/python/node scripting todo file io operations
 -​ Crontab basics, crontab expression and scheduling
 - task done check auto-update.sh
 
-​Nginx config
--​ Exploring Nginx directives and configurations
--​ Reverse proxy setups for web applications
--​ Reference: https://mohitkr27.medium.com/nginx-configuration-explained-a96d8482d778
