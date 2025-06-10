@@ -3,7 +3,6 @@
 
 [Unit] 
 Description=it is demo service to create and restart service nginx
-After=network-up.target
 
 [Service]
 User=dhruv-moradiya
