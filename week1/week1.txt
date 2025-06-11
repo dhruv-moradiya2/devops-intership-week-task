@@ -1,5 +1,4 @@
-Web app deployment basics (Week - 1)
-
+date: 10-06-2025
 sh/bash/python/node scripting todo file io operations
 - Task done as per understanding check file-io.sh
 
@@ -12,3 +11,19 @@ sh/bash/python/node scripting todo file io operations
 -​ Crontab basics, crontab expression and scheduling
 - task done check auto-update.sh
 
+date: 11-06-2025
+
+exploring nginx 
+- learn about nginx
+- learn how to write nginx.conf file from scratch
+- host simple web-page
+- explore MIME types configuration for CSS & assets
+- run multiple web-page with generate diff log 
+- change nginx default port in to another port
+- explore reverse proxy so understanding how it work on server use reverse_proxy
+- explore load balancing so understanding how nginx distribute load on server use upstream 
+- explore about backup server so if multiple server is running anything happened to server it switch backup server give backup server on one server.
+
+learn about basic python and how it use for devops
+- write simple program hello world.
+- difference between shell scripting vs python script

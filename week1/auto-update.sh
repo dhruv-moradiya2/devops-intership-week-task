@@ -1,6 +1,6 @@
 <<comment
 
-this script do daily update on proivde crontab time 
+this script do daily update on provide crontab time 
 
 comment
 

@@ -23,7 +23,7 @@ sudo systemctl status ${service_name}
 
 <<comment
 Output:
-witout add service:
+without add service:
 
 ./service-script.sh 
 
