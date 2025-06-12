@@ -1,4 +1,5 @@
 date: 10-06-2025
+
 sh/bash/python/node scripting todo file io operations
 - Task done as per understanding check file-io.sh
 
@@ -27,3 +28,37 @@ exploring nginx
 learn about basic python and how it use for devops
 - write simple program hello world.
 - difference between shell scripting vs python script
+
+date: 12-06-2025
+
+exploring pm2 service 
+- using simple node js server start pm2 server
+- apply nginx server act as reverse proxy for node js
+- Monitoring and managing Node.js processes with pm2 monit or pm2 plus dashboard
+- Bash script to automate code pull and pm2 reload
+
+explore dns
+- learn about dns and why use it.
+- explore record type like A record, AAAA record, CNAME record, NS record, MX record
+
+- learn how to apply ssl certificate using certbot for let's encrypt in nginx server using apt 
+    - sudo apt install certbot python3-certbot-nginx -y
+    - sudo certbot certonly –standalone -d <domainname>
+
+- add latest certbot using snap package:
+    - sudo snap install --classic certbot
+    - sudo ln -s /snap/bin/certbot /usr/bin/certbot
+
+  # below command run and it automatically configure with nginx and add ssl
+    - sudo certbot --nginx
+
+  # below command add only certificate
+    - sudo certbot certonly --nginx
+
+  # how to test automate renewal
+    - sudo certbot renew --dryrun
+
+- test web site to ensure it install.
+
+learn about basic python for script 
+- data type, string check out main.py
