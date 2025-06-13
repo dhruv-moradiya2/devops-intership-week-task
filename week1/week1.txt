@@ -62,3 +62,19 @@ explore dns
 
 learn about basic python for script 
 - data type, string check out main.py
+
+
+date: 13-06-2025
+
+exploring Apache2 or httpd server
+- learn about Apache2 or httpd
+- learn how to write httpd.conf file form scratch check out httpd.conf
+- host simple web page 
+- host two web page on same server with diff port
+- run multiple web-page with generate diff log 
+- explore reverse proxy so understanding how it work on server using virtualHost with diff port
+- explore load balancing so understanding httpd distribute load on server use some method check out httpd.conf
+
+learn about basic python for script 
+- learn about keyword, variable & local vs global variable
+- good practice to write variable
