@@ -7,7 +7,7 @@ Description=it is demo service to create and restart service nginx
 [Service]
 User=dhruv-moradiya
 WorkingDirectory=/home/user/dhruv-moradiya/Devops-intern/devops-intership-week-task/week1
-ExecStart=/home/user/dhruv-moradiya/Devops-intern/devops-intership-week-task/week1/./service-script.sh nginx
+ExecStart=/home/user/dhruv-moradiya/Devops-intern/devops-intership-week-task/week1/service-script.sh nginx
 Restart=always
 RestartSec=3
 
