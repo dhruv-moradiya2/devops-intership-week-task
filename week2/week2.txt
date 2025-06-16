@@ -1,6 +1,14 @@
 Date: 16-06-2024
 
+Explore AWS EC2 Service
+- Launching EC2 instances with different AMIs
+- install nginx to host simple web page
+- learn security group know as firewall of ec2 instances
 
-- 
--
--
+Python for scripting
+- Differences Between Functions, Modules, and Packages
+- How to Import a Package 
+- Python Workspaces as virtual environment
+    - python3 apt install python3.12-venv -y
+    - python3 -m venv demo-venv
+    - source demo-venv/bin/activate
