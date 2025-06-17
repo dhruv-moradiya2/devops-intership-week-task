@@ -1,4 +1,4 @@
-Date: 16-06-2024
+Date: 16-06-2025
 
 Explore AWS EC2 Service
 - Launching EC2 instances with different AMIs
@@ -12,3 +12,23 @@ Python for scripting
     - python3 apt install python3.12-venv -y
     - python3 -m venv demo-venv
     - source demo-venv/bin/activate
+
+
+Date: 17-06-2025
+
+AWS EC2 service
+- Creating custom Amazon Machine Images (AMIs)
+- Attach EBS with EC2
+- Physical vs logical volumes vs volume group in linux
+- mounting volume in linux
+- manage aws ebs on ec2 instance
+- use lvm (logical volume manager)
+- LVM with ebs for dynamic storage management
+
+Python for scripting
+- Command line arguments & environment variable 
+- learn module like sys & os 
+- print export env in linux using "os.getenv("")"
+- pass command line arguments using sys.argv[2]
+   - EX. python3 system.py 2 sum 4
+
