@@ -32,3 +32,16 @@ Python for scripting
 - pass command line arguments using sys.argv[2]
    - EX. python3 system.py 2 sum 4
 
+
+Date: 18-06-2025
+
+AWS EC2 Service
+- Attach EFS with EC2
+- set up Load balancer
+- Auto Scaling configurations with ELB
+- Load balancing algorithms and health checks
+- Set up HTTP to HTTPS redirect
+
+Python for scripting Operators
+- explore different type of Operators check out operators.py
+
