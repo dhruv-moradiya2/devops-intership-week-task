@@ -45,3 +45,24 @@ AWS EC2 Service
 Python for scripting Operators
 - explore different type of Operators check out operators.py
 
+Date: 19-06-2025
+
+AWS service:
+
+VPC Service
+- Creating and configuring Virtual Private Clouds
+- Subnetting and routing within VPC
+- NAT and Internet gateway
+- Create two ec2 with public and privet subnet and in public subnet attach with a NAT gateway so in privet subnet only reach internet
+- also both ec2 ping for test to both are communicate with each other
+- Network ACLs apply at subnet level and Security Groups apply for EC2 instance level for VPC security
+
+S3 bucket
+- Creating and managing S3 buckets
+- Versioning and lifecycle policies for S3 objects
+- Implementing Cross-Region Replication (CRR) for data redundancy
+- Enable ELB access logs to s3 bucket
+
+Python for scripting
+- Conditional handling
+
