@@ -66,3 +66,16 @@ S3 bucket
 Python for scripting
 - Conditional handling
 
+Date: 20-06-2025
+
+AWS Service
+
+VPC Service 
+- use vpc peering like two different vpc connect with each other for communicate
+
+Explore Route53
+- Domain registration and DNS management
+- Configuring hosted zones and record sets
+
+Python for scripting
+- Loops - for & while and loop controller
