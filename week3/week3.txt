@@ -1,0 +1,8 @@
+Date: 23-06-2025
+
+AWS Service:
+
+Cloudwatch
+- Monitoring EC2 instances and other AWS resources
+- Creating custom CloudWatch dashboards
+- Setting up CloudWatch Alarms for proactive monitoring
