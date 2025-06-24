@@ -6,3 +6,17 @@ Cloudwatch
 - Monitoring EC2 instances and other AWS resources
 - Creating custom CloudWatch dashboards
 - Setting up CloudWatch Alarms for proactive monitoring
+
+Date: 24-06-2025
+
+AWS Service:
+- Hand-on CloudWatch Alarms via email for ec2 monitoring 
+
+IAM Service
+- Creating and managing IAM users, groups, and roles
+- Implementing least privilege principles
+- Integrating IAM with other AWS services
+
+Python For Script
+- List & tuples understand
+
