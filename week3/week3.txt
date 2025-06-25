@@ -7,6 +7,7 @@ Cloudwatch
 - Creating custom CloudWatch dashboards
 - Setting up CloudWatch Alarms for proactive monitoring
 
+
 Date: 24-06-2025
 
 AWS Service:
@@ -20,6 +21,20 @@ IAM Service
 Python For Script
 - List & tuples understand
 
+
 Date: 25-06-2025
 
+AWS Service:
+
+RDS
+- Deploying and managing aurora for mysql
+- Multi-AZ deployments for high availability
+- Database backups and snapshots
+- Enabling Performance Insights 
+    - starting November 30, 2025 the Performance Insights console experience and flexible retention period pricing will no longer be supported. 
+
+Python For Script
+- List comprehensions.
+- Nested lists and advanced list operations
+- Exceptional Handling
 
