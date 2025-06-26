@@ -38,3 +38,16 @@ Python For Script
 - Nested lists and advanced list operations
 - Exceptional Handling
 
+
+Date: 26-06-2025
+
+AWS Service:
+
+ACM - Aws Certificate Manager
+- Certificate provisioning with AWS Certificate Manager
+- Integrating ACM certificates with other AWS services (ELB)
+- Automating certificate renewal
+
+Python For Script
+- Dictionaries and key-value pairs
+- Sets and set operations
