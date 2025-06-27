@@ -51,3 +51,13 @@ ACM - Aws Certificate Manager
 Python For Script
 - Dictionaries and key-value pairs
 - Sets and set operations
+
+
+Date: 27-06-2025
+
+AWS Service
+
+- Revise of EC2, VPC, Load Balancing, Security groups
+
+Python For Script
+- File operations
