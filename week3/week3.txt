@@ -61,3 +61,9 @@ AWS Service
 
 Python For Script
 - File operations
+
+Date: 28-06-2025
+
+AWS Service
+
+- Revise of Route53, ACM, Cloudwatch, S3 bucket, RDS 
