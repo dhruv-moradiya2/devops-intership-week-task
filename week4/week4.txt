@@ -6,10 +6,9 @@ Managing secrets
 - Utilizing AWS Secrets Manager for secure storage
 - Rotating credentials and secrets
 - Integrating secrets management with application code
+    - it give simple code we have to intergrade with code 
 
 WAF
 - Setting up Web Application Firewalls
 - Creating and managing WAF rules
 
-
-   
