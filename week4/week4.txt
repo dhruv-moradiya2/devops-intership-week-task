@@ -1,0 +1,15 @@
+Date: 30-06-2025
+
+AWS Service:
+
+Managing secrets
+- Utilizing AWS Secrets Manager for secure storage
+- Rotating credentials and secrets
+- Integrating secrets management with application code
+
+WAF
+- Setting up Web Application Firewalls
+- Creating and managing WAF rules
+
+
+   

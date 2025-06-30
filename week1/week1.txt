@@ -50,7 +50,10 @@ explore dns
     - sudo ln -s /snap/bin/certbot /usr/bin/certbot
 
   # below command run and it automatically configure with nginx and add ssl
-    - sudo certbot --nginx
+    - sudo certbot --
+  
+  # want to add two domain with 
+    - sudo certbot --apache -d <domain_name> 
 
   # below command add only certificate
     - sudo certbot certonly --nginx
