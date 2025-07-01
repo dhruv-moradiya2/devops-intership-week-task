@@ -1,0 +1,14 @@
+# base image for all lib and module
+FROM openjdk:17-alpine
+
+# workdir in continer
+WORKDIR /app
+
+# copy host to continer
+COPY src/Main.java /app/Main.java
+
+# compile the app
+RUN javac Main.java
+
+# run the app
+CMD ["java", "Main"]

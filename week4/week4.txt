@@ -12,3 +12,15 @@ WAF
 - Setting up Web Application Firewalls
 - Creating and managing WAF rules
 
+
+Date: 01-07-2025
+
+Docker:
+- Introduction Docker
+- Install docker engine or docker desktop
+- docker work using docker engine, docker demon, docker cli & docker client
+- write dockerfile, build docker image & run docker container 
+- RUN it will use to run any thing inside vs CMD it is used to after container made what command have to run understand
+- understand docker log to analyze what inside our app show 
+- how to get inside docker continer using docker exec
+
