@@ -22,5 +22,5 @@ Docker:
 - write dockerfile, build docker image & run docker container 
 - RUN it will use to run any thing inside vs CMD it is used to after container made what command have to run understand
 - understand docker log to analyze what inside our app show 
-- how to get inside docker continer using docker exec
+- how to get inside docker container using docker exec
 
