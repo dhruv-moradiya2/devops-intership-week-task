@@ -24,3 +24,12 @@ Docker:
 - understand docker log to analyze what inside our app show 
 - how to get inside docker container using docker exec
 
+
+Date: 02-07-2025
+
+Docker:
+- docker network
+    - network has 7 type but it focus on 4 type: none, defualt, bridge, User define bridge (custom)
+- docker volume & storage
+    - volume has two type one is create simple volume using docker volume create and give with continer path so it would store in host
+    - second method is using mount path with continer path so it would be store data base data
