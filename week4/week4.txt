@@ -33,3 +33,11 @@ Docker:
 - docker volume & storage
     - volume has two type one is create simple volume using docker volume create and give with continer path so it would store in host
     - second method is using mount path with continer path so it would be store data base data
+
+
+Date: 03-07-2025
+
+Docker:
+- docker registry help to store docker images
+
+help to Jatin bhai deploy Python AI model on runpod.
