@@ -1,0 +1,20 @@
+# Stege 1 as build and install require depedency 
+FROM python:3.7 AS builder
+
+WORKDIR /app
+
+COPY requirements.txt . 
+
+RUN pip install -r requirements.txt 
+
+# stage 2 as actuall run out app with copy privious stage install depedency 
+
+FROM python:3.10-alpine AS mainapp
+
+WORKDIR /app
+
+COPY --from=builder /usr/local/lib/python3.7/site-packages/ /usr/local/lib/python3.10/site-packages/
+
+COPY . . 
+
+ENTRYPOINT ["python","run.py"]
