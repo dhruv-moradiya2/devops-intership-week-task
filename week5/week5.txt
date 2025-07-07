@@ -1,0 +1,11 @@
+Date: 07-07-2025
+
+ECR (Elastic container registry)
+- Store docker image just like docker hub 
+- use for ecs so it will help to deploy docker images
+
+ECS (Elastic container service)
+- Deploying Docker containers on Amazon ECS
+- Task and service definitions in ECS
+- Integrating ECS with ALB and cloudwatch 
+
