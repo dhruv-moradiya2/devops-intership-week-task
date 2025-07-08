@@ -14,3 +14,10 @@ ECS (Elastic container service)
 
 Date: 08-07-2025
 
+AWS Service:
+
+Static hosting on S3 bucket
+- Hosting static websites on Amazon S3
+- Configuring S3 bucket policies for public access
+- Utilizing CloudFront for content delivery and caching
+
