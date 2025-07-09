@@ -28,5 +28,5 @@ AWS service:
 
 Lambda functions
 - create simple Lambda function  
-- add simple function run with web url
+- function URLs to assign HTTP(S) endpoints to your Lambda function.
 - list all s3 bucket in lambda 
