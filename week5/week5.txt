@@ -30,3 +30,15 @@ Lambda functions
 - create simple Lambda function  
 - function URLs to assign HTTP(S) endpoints to your Lambda function.
 - list all s3 bucket in lambda 
+
+
+Date: 10-07-2025
+
+AWS service:
+
+Lambda function
+- pass value using function URLs
+- host start vs cold start 
+- lambda environment variable
+
+
