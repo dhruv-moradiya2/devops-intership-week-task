@@ -42,3 +42,16 @@ Lambda function
 - lambda environment variable
 
 
+Date: 11-07-2025
+
+AWS Service:
+
+Lambda function
+- General Configuration Settings
+- Context Object in Function
+- Synchronous - it execute in fix time 
+- Asynchronous - it execute with in second 
+- trigger event on S3 when Object is put and delete
+- any request come in load balancer it goes on lambda 
+- add lambda function form zip file or get from S3 bucket
+
