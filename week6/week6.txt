@@ -8,3 +8,14 @@ Lambda:
 - connection between aws lambda and RDS 
 
 
+Date: 15-07-2025
+
+API gateway
+- Purpose of api gateway
+- HTTP API Integrations
+- REST API Integrations
+- Resource and Method
+- REST API with lambda
+- Create Dummy APIs with mock
+- connection between API gateway to dynamodb
+
