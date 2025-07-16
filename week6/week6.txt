@@ -19,3 +19,14 @@ API gateway
 - Create Dummy APIs with mock
 - connection between API gateway to dynamodb
 
+
+Date: 16-07-2025
+
+API gateway
+- Path & Query String Parameters
+- Headers in api gateway
+- Validation on API Gateway Level Using request method 
+- Modify Requests Before Reach the Backend
+- modify Request Body Before Reach Backend
+
+
