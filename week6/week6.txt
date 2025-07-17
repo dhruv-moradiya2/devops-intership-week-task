@@ -30,3 +30,12 @@ API gateway
 - modify Request Body Before Reach Backend
 
 
+Date: 17-07-2025
+
+API gateway
+- Integration Request in API Gateway 
+- Transform Lambda Responses
+- Authenticate API Gateway Using IAM Roles 
+- Protect API Gateway Using API Keys
+
+
