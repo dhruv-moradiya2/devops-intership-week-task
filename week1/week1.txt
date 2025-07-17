@@ -53,7 +53,7 @@ explore dns
     - sudo certbot --
   
   # want to add two domain with 
-    - sudo certbot --apache -d <domain_name> 
+    - sudo certbot --apache -d <domain_name>
 
   # below command add only certificate
     - sudo certbot certonly --nginx

@@ -39,3 +39,8 @@ API gateway
 - Protect API Gateway Using API Keys
 
 
+Date: 18-07-2025
+
+CI/CD
+- Understanding continuous integration and continuous deployment
+- explore github actions

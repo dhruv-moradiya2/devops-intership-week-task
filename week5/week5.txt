@@ -54,4 +54,3 @@ Lambda function
 - trigger event on S3 when Object is put and delete
 - any request come in load balancer it goes on lambda 
 - add lambda function form zip file or get from S3 bucket
-
