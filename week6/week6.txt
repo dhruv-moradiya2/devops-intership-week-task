@@ -35,12 +35,10 @@ Date: 17-07-2025
 API gateway
 - Integration Request in API Gateway 
 - Transform Lambda Responses
-- Authenticate API Gateway Using IAM Roles 
-- Protect API Gateway Using API Keys
 
 
 Date: 18-07-2025
 
-CI/CD
-- Understanding continuous integration and continuous deployment
-- explore github actions
+API gateway
+- Authenticate API Gateway Using IAM Roles 
+- Protect API Gateway Using API Keys
