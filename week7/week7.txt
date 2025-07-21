@@ -1,0 +1,14 @@
+Date: 21-07-2025
+
+CI/CD
+- Understanding continuous integration and continuous deployment
+- Explore github actions
+- workflow Components
+- Scheduled Events
+- Single vs Multiple Events
+- Manual Events Lab
+- Webhook Events
+- Conditional Keyword for Steps
+- Conditionals and Expressions
+
+
