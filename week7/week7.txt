@@ -12,3 +12,14 @@ CI/CD
 - Conditionals and Expressions
 
 
+Date: 22-07-2025
+
+Github Actions:
+- Runners
+- Self-host vs github Runners
+- Workflow Commands
+- Dependent Jobs
+- Encrypted Secrets
+- Default Env Vars
+
+
