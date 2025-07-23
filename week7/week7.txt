@@ -23,3 +23,11 @@ Github Actions:
 - Default Env Vars
 
 
+Date: 23-07-2025
+
+Github Actions:
+- Set Env Var with Workflow Commands
+- Add Script to Workflow
+- publish docker image to docker hub and deploy app on self host runner
+- Deploy Release to Cloud Provider like prebuild template for deploy on ecs and ecr.
+
