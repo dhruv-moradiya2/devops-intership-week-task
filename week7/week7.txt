@@ -31,3 +31,9 @@ Github Actions:
 - publish docker image to docker hub and deploy app on self host runner
 - Deploy Release to Cloud Provider like prebuild template for deploy on ecs and ecr.
 
+
+Date: 24-07-2025
+
+Github Actions:
+- Service Containers
+- 
