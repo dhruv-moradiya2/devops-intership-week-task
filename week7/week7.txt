@@ -42,3 +42,12 @@ Github Actions:
 - workflow status badge
 - disable workflow or say delete workflow
 
+
+Date: 25-07-2025
+
+Github Actions:
+- Action Types
+- Inputs and Outputs for Actions
+- Action Versions
+- Reuse Templates for Actions and Workflows
+
