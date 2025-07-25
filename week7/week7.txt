@@ -50,4 +50,3 @@ Github Actions:
 - Inputs and Outputs for Actions
 - Action Versions
 - Reuse Templates for Actions and Workflows
-
