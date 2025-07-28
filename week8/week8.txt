@@ -1,0 +1,8 @@
+Date: 28-07-2025
+
+AWS DEVOPS
+- purpose of ci/cd in aws service
+- Deep dive into IAM roles & policies
+- connect with aws cli for accessing aws services
+- explore aws services codebuild, codedeploy, codepipeline.
+
