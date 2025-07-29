@@ -6,3 +6,12 @@ AWS DEVOPS
 - connect with aws cli for accessing aws services
 - explore aws services codebuild, codedeploy, codepipeline.
 
+
+Date: 29-07-2025
+
+AWS DEVOPS
+- explore codebuild
+- learn about buildspec.yml
+- create a sample project with codebuild
+- build node app as docker image and push on dockerhub to complete CI part
+
