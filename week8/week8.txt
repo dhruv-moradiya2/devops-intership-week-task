@@ -15,3 +15,12 @@ AWS DEVOPS
 - create a sample project with codebuild
 - build node app as docker image and push on dockerhub to complete CI part
 
+
+Date: 30-07-2025
+
+AWS DEVOPS
+- explore codepipeline
+- create a sample pipeline with codebuild and codepipeline
+- learn about stages, actions, and transitions in codepipeline
+- integrate codebuild with codepipeline for continuous integration
+
