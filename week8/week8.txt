@@ -24,3 +24,13 @@ AWS DEVOPS
 - learn about stages, actions, and transitions in codepipeline
 - integrate codebuild with codepipeline for continuous integration
 
+
+Date: 31-07-2025
+
+AWS DEVOPS
+- explore code deploy
+- learn about deployment strategies in code deploy
+- deploy a sample application using code deploy
+- create a complete ci/cd pipeline with codebuild, codepipeline, and code deploy
+
+
