@@ -34,3 +34,9 @@ AWS DEVOPS
 - create a complete ci/cd pipeline with codebuild, codepipeline, and code deploy
 
 
+Date: 01-08-2025
+
+- explore Infrastructure as a code (IaC)
+- learn about AWS CloudFormation 
+- explore AWS CDK (Cloud Development Kit)
+- explore AWS SDK (Software Development Kit)
