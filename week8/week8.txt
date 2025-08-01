@@ -39,4 +39,4 @@ Date: 01-08-2025
 - explore Infrastructure as a code (IaC)
 - learn about AWS CloudFormation 
 - explore AWS CDK (Cloud Development Kit)
-- explore AWS SDK (Software Development Kit)
+- explore AWS SDK (Software Development Kit) python boto3 library
