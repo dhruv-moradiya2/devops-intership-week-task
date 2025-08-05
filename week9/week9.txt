@@ -6,3 +6,11 @@ Date: 04-08-2025
 - Understand all the components of cdk
 
 
+Date: 05-08-2025
+
+- create a lambda function using aws cdk 
+- deploy the lambda function to AWS
+- test the lambda function with sample events
+- learn about aws ec2 instances to create as aws cdk resource
+
+
