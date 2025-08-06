@@ -14,3 +14,11 @@ Date: 05-08-2025
 - learn about aws ec2 instances to create as aws cdk resource
 
 
+Date: 06-08-2025
+
+- attach lambda function to an API Gateway
+- create a simple REST API using API Gateway
+- deploy the API Gateway
+- test the API Gateway with Postman
+
+
