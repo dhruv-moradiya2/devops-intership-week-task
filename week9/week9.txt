@@ -22,3 +22,9 @@ Date: 06-08-2025
 - test the API Gateway with Postman
 
 
+Date: 07-08-2025
+
+- create a iam user with policies using aws cdk
+- understand IAM roles and policies
+- use libraries for boto3 
+
