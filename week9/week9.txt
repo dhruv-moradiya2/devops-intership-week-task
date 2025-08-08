@@ -28,6 +28,7 @@ Date: 07-08-2025
 - understand IAM roles and policies
 - use libraries for boto3 
 
+
 Date: 08-08-2025
 
 - build ci-cd pipeline in gitlab for project
