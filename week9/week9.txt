@@ -30,6 +30,7 @@ Date: 07-08-2025
 
 Date: 08-08-2025
 
+- build ci-cd pipeline in gitlab for project
 - explore aws cli commands for bash automation
 - create a bash script to automate AWS CLI commands
 - test the bash script with AWS CLI commands
